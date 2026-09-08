@@ -1,4 +1,35 @@
 {
-  "entries": [],
-  "last_updated": "test-update-1"
+  "entries": [
+    {
+      "url": "https://docs.uipath.com/test-manager/automation-cloud/latest/release-notes/september-2026",
+      "topic": "Test Manager - September 2026",
+      "newsletter_week": "2026-09-08"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "topic": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "newsletter_week": "2026-09-08"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "topic": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "newsletter_week": "2026-09-08"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "topic": "Google’s Gemini Spark can now manage your Google Photos library",
+      "newsletter_week": "2026-09-08"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "topic": "Fambot introduces an ‘AI chief of staff’ for families",
+      "newsletter_week": "2026-09-08"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+      "topic": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "newsletter_week": "2026-09-08"
+    }
+  ],
+  "last_updated": "2026-09-08"
 }
